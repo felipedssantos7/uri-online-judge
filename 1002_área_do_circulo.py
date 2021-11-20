@@ -1,4 +1,4 @@
-# 1002 - Area do Circulo
+# 1002 - Área do círculo.
 raio = float(input())
 pi = 3.14159
 area = pi * raio * raio

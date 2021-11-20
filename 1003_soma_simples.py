@@ -1,4 +1,4 @@
-# 1003 - Soma Simples
+# 1003 - Soma simples.
 A = int(input())
 B = int(input())
 SOMA = A + B
